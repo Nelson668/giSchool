@@ -1,6 +1,6 @@
 s# giSchool
 學員管理
-[google](https//www.google.com.tw).
+[google](https//www.google.com.tw)
 
 [測試](page)
 
