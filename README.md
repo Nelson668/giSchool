@@ -4,6 +4,6 @@ s# giSchool
 
 [測試](page)
 
-![照片](image/)
+![照片](image/dog)
 
 <hr>
