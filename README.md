@@ -1,4 +1,5 @@
 # giSchool
 學員管理
-[google](http//www.goolel.com)
+[google](http//www.google.com)
+
 
